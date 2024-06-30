@@ -1,0 +1,26 @@
+body {
+    padding: 0px;
+    margin: 0px;
+    background-color: rgb(65, 61, 61);
+}
+.container {
+    width: 100%;
+    text-align: center;
+    color: lightgreen;
+    display: grid;
+    justify-content: center;
+}
+.title {
+    font-size: 45px;
+}
+.change-text {
+    font-size: 80px;
+    text-align: center;
+}
+p {
+    font-size: 20px;
+}
+.content {
+    display: flex;
+    gap: 100px;
+}
