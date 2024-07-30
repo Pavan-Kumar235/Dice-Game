@@ -1,7 +1,7 @@
 body {
     padding: 0px;
     margin: 0px;
-    background-color: rgb(65, 61, 61);
+    background-color: rgb(46, 43, 43);
 }
 .container {
     width: 100%;
@@ -9,9 +9,6 @@ body {
     color: lightgreen;
     display: grid;
     justify-content: center;
-}
-.title {
-    font-size: 45px;
 }
 .change-text {
     font-size: 80px;
